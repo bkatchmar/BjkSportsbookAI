@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BjkSportsbookAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82efbe5fc754da1acd8cc5f3951bfb5059c0a63f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BjkSportsbookAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BjkSportsbookAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
