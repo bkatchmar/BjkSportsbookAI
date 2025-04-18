@@ -1,0 +1,3 @@
+# Introduction
+
+Porting this over from an older code base, I decided to go ahead and re-write this with more flexible technologies. I am going to use the upcoming 2025 WNBA season to develop this whole model with the intention of possibly expanded this to many other leagues, but I want to start with a much smaller league like the WNBA or possibly the UFL since I will be dealing with much smaller amount of data that still relies heavily on manual input.
